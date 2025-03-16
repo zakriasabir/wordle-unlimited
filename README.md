@@ -34,7 +34,7 @@ A browser-based clone of the popular word-guessing game Wordle with unlimited pl
 1. Clone this repository:
 
    ```
-   git clone https://github.com/zakriasabir/wordle-unlimited.git
+   git clone https://github.com/yourusername/wordle-unlimited.git
    ```
 
 2. Navigate to the project directory:
